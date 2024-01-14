@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Effxct Owns Me.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Kermit-Spoofer-Main.cpp
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(44,1): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(224,1):
+  see previous definition of '_WIN32_WINNT'
+  
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(74,10): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(77,3): warning C4551: function call missing argument list
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(86,3): warning C4551: function call missing argument list
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(95,3): warning C4551: function call missing argument list
+C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\Effxct Owns Me\Kermit-Spoofer-Main.cpp(64,2): warning C4102: 'main': unreferenced label
+  Effxct Owns Me.vcxproj -> C:\Users\Kermit\Desktop\loader sound\Effxct Owns Me\x64\Debug\Kermit-Spoofer.exe
